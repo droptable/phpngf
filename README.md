@@ -2,4 +2,4 @@
 
 Personal rewrite of phpfmt for modern PHP code.
 
-API compatible with phpfmt and phpF
+Can be used as drop-in replacement of phpfmt/phpF
